@@ -1,6 +1,6 @@
 # G-H-O-S-T
 
-The game Ghost is a spelling game that can be played with any number of players.  The rules are as follows.
+The game Ghost is a spelling game that can be played with two or more players.  The rules are as follows.
 
 OBJECTIVE:
 
