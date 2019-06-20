@@ -64,7 +64,6 @@ class Player(object):
             if len(inpt) == 1 and inpt.isalpha():
             
                 for child in node.children:
-                    
                     # Valid letter, end of word
                     if inpt == child.char and child.length:
                         game.word += child.char
@@ -74,9 +73,9 @@ class Player(object):
                         
                     # Valid letter, next turn
                     elif inpt == child.char:
-                        game.word += child.char
                         game.node = child
-                        print(game.word.upper(), end = '')
+                        game.word += child.char
+                        print(game.word.upper(), end = '\n')
                         return
                 
                 # Invalid letter
