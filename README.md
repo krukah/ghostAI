@@ -4,4 +4,6 @@ The game Ghost is a spelling game that can be played with two or more players.  
 
 OBJECTIVE:
 
-The objective of the game is for all players to collectively spell an English word, one letter at a time, with each individual player trying to avoid apelling the last letter of any word.  Essentially, every player is aiming to continue a valid word from the letters played before it without finishing the word himself.  Proper nouns, hyphenated words, and words with spaces are not permitted, and words that are 3 letters or shorter are exempt.  A player who finishes a word receives a strike, and a player who accumulates 5 strikes is eliminated from the game.
+GHOST can be thought of as linguistic hot potato: each player takes turns spelling a word one letter at a time while trying to avoid completing any word by spelling the last letter and forcing others to do so. Proper nouns, hyphenated words, and words with spaces are not allowed. Words that are 3 letters or shorter are exempt. For example, you would not be penalized for spelling the T in "CAT", but you would for spelling the S in "CATS" even though both are English words.
+
+The penalty for finishing a word is receiving a strike, and any player who accumulates 5 strikes is eliminated from the game. The game continues until there is one standing player who is declared winner.
